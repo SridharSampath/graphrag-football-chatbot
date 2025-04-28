@@ -11,8 +11,10 @@ GraphRAG Football Chatbot is an chatbot that integrates Neo4j, OpenAI embeddings
 
 ✅ Streamlit Chatbot UI: User-friendly interface for football-related queries.
 
-Author
+**Author**
 
-I share my learnings around AI | ML | AWS here: 🔗 Hashnode Blog - sridhartech.hashnode.dev
+I share my learnings around AI | ML | AWS here:
+🔗 Hashnode Blog - [sridhartech.hashnode.dev](https://sridhartech.hashnode.dev/)
 
-Connect with me on LinkedIn: 🔗 LinkedIn - Sridhar Sampath
+Connect with me on LinkedIn:
+🔗 LinkedIn - [Sridhar Sampath](https://www.linkedin.com/in/sridharsampath89/)
